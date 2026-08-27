@@ -17,6 +17,7 @@ I'm a Software Engineering student at **SMKN 64 Jakarta** who enjoys building we
 
 ## 🛠️ Tech Stack
 <img src="./img/tech_cube.gif" width="220" alt="Tech Stack 3D Cube" />
+
 ### Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
