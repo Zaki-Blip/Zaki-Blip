@@ -1,8 +1,8 @@
-# Jeki is Here
+# Yo JQ is Here
 
 ![One Piece Vibes](./img/one.gif)
 
-### 💻 Software Engineering Student | Laravel Developer | RPL Student
+### 💻 Software Engineering Student | RPL Student
 
 I'm a Software Engineering student at **SMKN 64 Jakarta** who enjoys building web applications and learning backend development.
 
