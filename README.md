@@ -2,11 +2,6 @@
 
 ![One Piece Vibes](./img/one.gif)
 
-### 💻 Software Engineering Student | RPL Student
-
-I'm a Software Engineering student at **SMKN 64 Jakarta** who enjoys building web applications and learning backend development.
----
-
 ### Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
