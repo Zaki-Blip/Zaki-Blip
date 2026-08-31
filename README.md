@@ -5,14 +5,6 @@
 ### 💻 Software Engineering Student | RPL Student
 
 I'm a Software Engineering student at **SMKN 64 Jakarta** who enjoys building web applications and learning backend development.
-
-- 🔭 Currently working on **school and personal projects**
-- 🌱 Currently learning **Laravel & Backend Development**
-- 💻 Interested in **Web Development & Backend Development**
-- 🚀 Always learning and improving my programming skills
-- ⚽ **Chelsea FC** supporter — KTBFFH 💙
-- 🏴‍☠️ **One Piece** fan — Excited for the God Valley movie!
-
 ---
 
 ### Languages
@@ -29,26 +21,6 @@ I'm a Software Engineering student at **SMKN 64 Jakarta** who enjoys building we
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
-## 📈 GitHub Stats
-
-![Faiz's GitHub stats](https://github-stats-extended.vercel.app/api?username=Zaki-Blip&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Zaki-Blip&layout=compact&theme=tokyonight)
-
----
-
-## 🎯 2026 Goals
-
-- [ ] Improve Laravel & Backend Development
-- [ ] Build more real-world projects
-- [ ] Improve Git & GitHub workflow
-- [ ] Build a stronger portfolio
-- [ ] Prepare for PKL (Internship)
-- [ ] Learn more about APIs and system integration
-
----
 
 ## 📫 Connect With Me
 
