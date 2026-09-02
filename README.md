@@ -20,6 +20,7 @@
 ## 📫 Connect With Me
 
 **GitHub:** [@Zaki-Blip](https://github.com/Zaki-Blip)
+**Linkedln:** [@Muhammad Faiz Al Zaki](https://www.linkedin.com/in/muhammad-faiz-al-zaki-51388b379/)
 
 ---
 
